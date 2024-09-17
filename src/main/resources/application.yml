@@ -1,0 +1,5 @@
+spring:
+ application:
+  name: Arduino_ShiftRegister
+server:
+ port: 8888  
